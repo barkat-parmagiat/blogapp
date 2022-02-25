@@ -1,0 +1,104 @@
+.logback {
+  background-image: url('../Images/log_bg.jpg');
+  width: 100%;
+  height: calc(100vh - 70px);
+  opacity: 0.8;
+  padding-top: 250px;
+}
+.whiteLayout {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  position: fixed;
+  bottom: 0;
+  height: 70 vh;
+  background: #ffffffe3;
+  border-radius: 40px 40px 0 0;
+  padding-left: 100px;
+  padding-right: 100px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  width: 65%;
+  margin: auto;
+}
+
+.whiteLayout h1 {
+  font-size: 40px;
+  color: #0083d0;
+  text-align: center;
+  padding-bottom: 50px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.lbl {
+  text-align: left;
+}
+#text-field {
+  margin-top: 20px;
+  border-radius: 30px;
+}
+
+#btnn {
+  width: 100%;
+  border-radius: 30px;
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+p {
+  text-align: center;
+}
+.pfl_pic {
+  display: inline-block;
+  vertical-align: middle;
+  border-radius: 100px;
+  overflow: hidden;
+  width: 80px;
+  height: 80px;
+  background-position: center;
+  background-size: cover;
+  margin-right: 2px;
+  border: 1px solid #ddd;
+}
+.gcolor {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(110, 110, 241, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+.h1d {
+  color: white;
+}
+footer {
+  background-color: aliceblue;
+  height: calc(100vh - 910px);
+}
+.showuser {
+  background-color: rgb(221, 255, 221);
+  border-radius: 10px;
+}
+.blue {
+  color: #2664ec;
+}
+.red {
+  color: #d8230c;
+}
+.green {
+  color: #10a01c;
+}
+.aboutpic {
+  display: inline-block;
+  vertical-align: middle;
+  border-radius: 100px;
+  overflow: hidden;
+  width: 150px;
+  height: 150px;
+  background-position: center;
+  background-size: cover;
+  margin-right: 2px;
+  border: 1px solid #ddd;
+}
+.editright {
+  float: right;
+}

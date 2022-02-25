@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Frontend testing Verify response headers 1`] = `undefined`;
+
+exports[`Frontend testing Verify response headers 2`] = `undefined`;
+
+exports[`Frontend testing Verify response headers defi 1`] = `undefined`;
+
+exports[`Frontend testing Verify response headers defined/undefined 1`] = `undefined`;
